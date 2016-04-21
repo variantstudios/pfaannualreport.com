@@ -1,0 +1,7 @@
+User-agent: *
+Crawl-delay: 10
+
+Disallow: /config.rb
+Disallow: /.sass-cache
+Disallow: test.html
+
